@@ -1,0 +1,20 @@
+h1{
+    font-size:36px;
+    color: rgb(0, 64, 255);
+    border: 2px dashed rgb(245, 142, 40);
+    margin-top: 70px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+body{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+p{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 28px;
+}
